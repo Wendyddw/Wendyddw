@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wen-dai-613409137/)
 #### I'm a full stack software engineer based in San Francisco Bay Area🌁
 - 😄 Pronouns: she/her
-- 👩🏻‍💻 Previous Experience: I'm also a semiconductor process engineer
+- 👩🏻‍💻 Previous Experience: semiconductor process engineer
 - 🦄 Interests: I love traveling and have a vlog channel to record all the precious memories.
 - 📫 How to reach me: arielddw@gmail.com
 
