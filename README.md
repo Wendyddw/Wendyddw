@@ -3,8 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wen-dai-613409137/)
 #### I'm a full stack software engineer based in San Francisco Bay Area🌁
 - 😄 Pronouns: she/her
-- 👩🏻‍💻 Previous Experience: semiconductor process engineer
-- 🦄 Interests: Love traveling and have a vlog channel to record all the precious memories.
+- 🦄 Favorite Sanrio Character: Kuromi
 - 📫 How to reach me: arielddw@gmail.com
 
 ## Languages, Frameworks, and Tools:
