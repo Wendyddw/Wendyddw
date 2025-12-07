@@ -1,7 +1,7 @@
 ### Hi there! I'm Wen Dai👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wen-dai-613409137/)
-#### I'm a software engineer based in San Francisco Bay Area🌁 Experienced in building data platforms and large-scale data systems in production. I specialize in Spark, data lakes, data streaming, validation, and visualization.
+#### I'm a software engineer based in San Francisco Bay Area🌁 Experienced in building data platforms and large-scale data systems in production. I specialize in Spark, data lakehouses, data streaming, validation, and visualization.
 - 😄 Pronouns: she/her
 - 🦄 Favorite Sanrio Character: Kuromi
 - 📫 How to reach me: arielddw@gmail.com
